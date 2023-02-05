@@ -1,5 +1,9 @@
 # vue-ts-cms
-该项目是基于 Vue3、Pinia、VueRouter、Vite、 ElementPlus 、TypeScript、Echart5 等后台系统解决方案。
+该项目是基于 Vue3、Pinia、VueRouter、Vite4、 ElementPlus 、TypeScript、Echart5 等后台系统解决方案。
+
+https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/210/202302051542946.png
+
+![预览](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/210/202302051617367.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
