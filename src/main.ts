@@ -5,12 +5,9 @@ import './assets/css/index.less'
 import App from './App.vue' // 默认不能识别为组件 需配置：env.d.ts 也有volar插件的影响
 import router from './router'
 import store from './store'
-import registerIcons from '@/global/register-icons';
+import registerIcons from '@/global/register-icons'
 
 const app = createApp(App)
-
-
-
 
 app.use(registerIcons)
 app.use(store)
